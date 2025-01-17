@@ -32,7 +32,7 @@ This project is an e-commerce marketplace designed during a hackathon. The goal 
   - **Order**: Fields for order ID, customer details, product list, total price, and status.
   - **User** (Optional): Fields for email, password, and wishlist.
 
-   <img src="/images/Frontend.PNG" alt="System Architecture"width="600">
+   <img src="/images/Backend.PNG" alt="System Architecture" width="600">
 
 ### **3. Third-Party APIs**
 
